@@ -21,9 +21,7 @@ Python-Programming-Lab/
 ├── Lab 3/
 │   └── ...
 │
-├── ...
-│
-├── Lab 10/
+├── Lab 4/
 │   └── ...
 │
 ├── README.md
